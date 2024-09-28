@@ -1,0 +1,18 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.todo{
+  font-size: 18px;
+  font-weight: 500;
+}
+.btn {
+  color: #ff0b37;
+  border-radius: 12px;
+  border: 1px solid #ff0b37;
+  padding: 5px;
+  background-color: #ffffff;
+  height: 38px;
+  width: 70px;
+}
